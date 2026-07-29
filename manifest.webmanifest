@@ -1,0 +1,11 @@
+{
+  "name": "ArcheAge Command Center",
+  "short_name": "AA Command",
+  "description": "Local-first leadership, raid planning, attendance, and hero-call tracking.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e7",
+  "theme_color": "#071311",
+  "categories": ["productivity", "games"]
+}
